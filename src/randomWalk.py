@@ -29,7 +29,7 @@ def get_random_walk_x():
 
 
 def get_random_walk_y():
-    '''这个函数将生成用于绘制数据的x轴的列表'''
+    '''这个函数将生成用于绘制数据的y轴的列表'''
 
     # 设置循环次数
     loop = 10000
